@@ -1,3 +1,3 @@
-# Headline
+# Quote Direct
 
 > An awesome project.
